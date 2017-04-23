@@ -1,0 +1,14 @@
+Enter grammar file: grammars/palindrome.cfg
+Enter word to parse: aabbaa
+1. S
+2. A Ra
+3. A S' A
+4. A A Ra A
+5. A A S' A A
+6. a a S' a a
+7. a a B B a a
+8. a a b b a a
+——
+Enter grammar file: grammars/palindrome.cfg
+Enter word to parse: abb
+Word does not exist in the grammar!

@@ -1,2 +1,2 @@
-# CNF-Parser
-Chomsky normal form (CNF) context-free grammar parser
+1. make
+2. java -jar CFG.jar 

@@ -1,0 +1,15 @@
+Enter grammar file: grammars/astar_b.cfg
+Enter word to parse: aaaaab
+1. S
+2. R B
+3. A R B
+4. A A R B
+5. A A A R B
+6. A A A A R B
+7. a a a a R B
+8. a a a a a B
+9. a a a a a b
+——
+Enter grammar file: grammars/astar_b.cfg
+Enter word to parse: abbb
+Word does not exist in the grammar!

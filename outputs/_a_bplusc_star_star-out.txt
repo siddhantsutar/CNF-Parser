@@ -1,0 +1,10 @@
+Enter grammar file: _a_bplusc_star_star.cfg
+Enter word to parse: a
+1. S
+2. A B
+3. a B
+4. a
+——
+Enter grammar file: _a_bplusc_star_star.cfg
+Enter word to parse: bc
+Word does not exist in the grammar!

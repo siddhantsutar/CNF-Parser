@@ -1,0 +1,15 @@
+Enter grammar file: grammars/paren.cfg
+Enter word to parse: ()()
+1. S
+2. S' S'
+3. O C O C
+4. ( C ( C
+5. ( ) ( )
+——
+Enter grammar file: grammars/paren.cfg
+Enter word to parse: (()(()))
+1. S
+2. S' S'
+3. O C O C
+4. ( C ( C
+5. ( ) ( )
